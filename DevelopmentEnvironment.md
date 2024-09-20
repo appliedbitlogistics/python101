@@ -3,6 +3,8 @@ I'm starting this project in Oct 2024 to learn Python.  My development environme
 
 Before we start coding we need a few tools to make things easier in the long run.
 
+---
+
 # Code Editor
 We'll need an Integrated Development Environment (IDE) or specialized software to edit our code files. Technically we can use Notepad, or even MS word.  But it is much easier to edit code in a code editor.  There are many choices to select from but we'll off 2 options:
 
@@ -16,8 +18,10 @@ The free open source version of VS Code which [does not track your data](https:/
   - Windows: https://github.com/VSCodium/vscodium/releases/download/1.93.1.24256/VSCodiumSetup-x64-1.93.1.24256.exe
   - Debian Linux: https://github.com/VSCodium/vscodium/releases/download/1.93.1.24256/codium_1.93.1.24256_amd64.deb
 
+---
+
 # Code Revision
-While it has a bit of a learning curve, using a code revision tool to track changes in your code is an invaluable tool, and well worth the time to become famliar with before you start coding.
+While it has a bit of a learning curve, using a code revision tool to track changes in your code is an invaluable tool, and well worth the time to become famliar with before you start coding.  While there are many code revision options, Git is by far the mainstream tool to use in modern programming.
 
 ## Git
 
@@ -29,8 +33,23 @@ While it has a bit of a learning curve, using a code revision tool to track chan
 sudo apt install git
 ```
 
-## Github
-github.com is a website for collabortive coding.  It is a convenient place to share code 
+---
+# Github
+https://github.com is a website for collabortive coding.  It is a convenient place to share code 
+
+---
+
+# Python
+
+## Windows
+- https://www.python.org/downloads/windows/
+
+## Debian Linux
+```
+sudo apt install python3
+```
+
+---
 
 # AI Coding Assistant
 An AI coding assistant (Co Pilot) will help use find errors and teach us how to code better.
