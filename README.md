@@ -11,8 +11,9 @@ My programming journey started the 1980's learning languages like [BASIC](https:
 ---
 
 # Tutorial Outline
+- [Outline by ChatGPT](https://chatgpt.com/share/66f2060a-2af0-8007-8520-387cc4954dd9)
 
-## [Introduction to Python Programming](https://chatgpt.com/share/66f2060a-2af0-8007-8520-387cc4954dd9)
+## Introduction to Python Programming
 
 While this tutorial aims to teach us how to program in Python, but the Python language is really just the lens through which we are learn how to program.  This tutorial is more about learning how to program than it is about Python.
 
