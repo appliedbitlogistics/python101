@@ -12,7 +12,7 @@ We'll need an Integrated Development Environment (IDE) or specialized software t
 VS Code is a very popular free mainstream code editor will full support for your coding needs.
 - Download: https://code.visualstudio.com/Download
 
-## [Codium](https://vscodium.com/) 
+## [VSCodium](https://vscodium.com/) 
 The free open source version of VS Code which [does not track your data](https://vscodium.com/#why).  This offer the same capablities as VS Code but with out sending you data back to Microsoft.
 - Download: https://github.com/VSCodium/vscodium/releases
   - Windows: https://github.com/VSCodium/vscodium/releases/download/1.93.1.24256/VSCodiumSetup-x64-1.93.1.24256.exe
