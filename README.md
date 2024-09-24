@@ -1,5 +1,5 @@
 # python101
-A tutorial for teaaching myself (and others) the Python programming language.
+A tutorial for teaching myself (and others) the Python programming language.
 
 - John Haverlack
 - Copyright (c) 2024 Applied Bit Logistics
