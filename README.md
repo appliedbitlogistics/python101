@@ -14,13 +14,13 @@ My programming journey started the 1980's learning languages like [BASIC](https:
 
 ## [Introduction to Python Programming](https://chatgpt.com/share/66f2060a-2af0-8007-8520-387cc4954dd9)
 
-While this tutorial aims to teach us how to program in Python, the Python language is really just the lense we are using to learn how to program.  
+While this tutorial aims to teach us how to program in Python, but the Python language is really just the lens through which we are learn how to program.  This tutorial is more about learning how to program than it is about Python.
 
-> What is important is learning how to write code to process information.
+> What is important is learning how to write code to process information.  Not the language we choose to use to do so.
 
-This tutorial could just as easily be tauthg using any modern programming language, Node.JS, Rust, Go, etc.  But because of Pythons popularity among the scientfic community it is a good choice as a practical language to learn.
+This tutorial could just as easily be taught using any modern programming language, Node.JS, Rust, Go, etc.  Because of Python's popularity among the scientfic community it is a good choice as a practical (first) language to learn.
 
-Because I've programmed in so many languages for a number of years, but I don't really know Python, my approach will be to outline the programming skills that we need to progressively develop using Python to demonstrate these lessons.
+Because I've programmed in a number languages for many years, and I don't really know Python, my approach will be to outline the programming skills that progressively build previous skills in a language agnostic manner.  And then use Python to demonstrate these lessons.
 
 > This tutorial will provide examples for Windows and Linux.  Programming on Macs is mostly similar to Linux but the installation and setup of your programming environment on Mac will be slighly different.
 
@@ -28,23 +28,9 @@ Because I've programmed in so many languages for a number of years, but I don't 
 
 Before we jump into learning Python we need some skills and tools to help us.  We'll need to install **Python**, a **Code Editor**, a command line **terminal** shell, and **Git** at a minimum.  
 
-#### Git
-Git is a code revision tool, and while becomming proficient with Git has a modest learning curve, we can get started with it without too much distraction.  Initially Git will server as a back system to help keep us from accidentally loosing our work.  But as we continue to advance our programming skills we will find Git is an invaluable tool that we wonder how we ever lived without.
-
-**Objectives**:
-- Setting up the Python environment (Windows/Linux/MacOS).
-- Using interactive shells (REPL) and basic Python IDEs (VS Code, PyCharm).
-
-
 ### Lesson 1: [Hello World](Lessons/01_HelloWorld/lesson.md)
 
-**Objectives**:
-- IO to the Terminal
-- IO from a Variable to the Terminal
-- IO to and from a File
-- IO via a Web URL
-
-Hands-on: Write your first "Hello, World!" program.
+When learning any language it's traditionally to start with a very simple program that write the words "Hello World" to the screen.
 
 ### Lesson 2: Basic Syntax, Variables, and Data Types
 
